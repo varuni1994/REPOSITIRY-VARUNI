@@ -1,0 +1,15 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "adminvaruni"
+    },
+    "adminPassword": {
+      "value": "Vipra170#1234567890"
+    },
+    "dnsNameForPublicIP": {
+      "value": "Newlinuxvm20171"
+    }
+  }
+}
