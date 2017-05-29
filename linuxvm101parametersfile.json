@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "adminvaruni"
+      "value": "adminuser1234321"
     },
     "adminPassword": {
-      "value": "Vipra170#1234567890"
+      "value": "password98899889"
     },
     "dnsNameForPublicIP": {
-      "value": "Newlinuxvm20171"
+      "value": "anewVM1"
     }
   }
 }
